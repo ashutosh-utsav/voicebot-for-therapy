@@ -1,4 +1,3 @@
-# app.py (Final Version with Explicit Static Folder)
 import os
 import asyncio
 import json
