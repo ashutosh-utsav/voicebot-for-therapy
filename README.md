@@ -27,7 +27,7 @@ The application is built with a simple but robust architecture:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone git@github.com:ashutosh-utsav/voicebot-for-therapy.git
 cd AI_therapist_app 
 ```
 
