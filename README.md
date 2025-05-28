@@ -23,6 +23,7 @@ The application is built with a simple but robust architecture:
 
 - Python 3.8 or higher
 - An active ElevenLabs account with an API Key and a created Conversational AI Agent.
+- Create a .env file and store your api key there 
 
 ### 1. Clone the Repository
 
