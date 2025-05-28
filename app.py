@@ -15,7 +15,7 @@ sock = Sock(app)
 
 
 ELEVENLABS_API_KEY = os.getenv("ELEVENLABS_API_KEY")
-AGENT_ID = "agent_01jw8z2s6wemv9wv1r143pp1ck" 
+AGENT_ID = "PUT YOUR_AGENT_ID_HERE"  
 ELEVENLABS_WS_URL = f"wss://api.elevenlabs.io/v1/convai/conversation?agent_id={AGENT_ID}"
 
 @app.route('/')
